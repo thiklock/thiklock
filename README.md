@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I am currently a data Enthusiast!
+I Code Python
+I am Currently a Analytics Engineer in N26.
 <!--
 **thiklock/thiklock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
