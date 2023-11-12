@@ -1,7 +1,6 @@
 ### Hi there 👋
 - I am currently a data Enthusiast!
 - Code Pyhton
-- I am Currently a Analytics Engineer in N26.
 
 
 
