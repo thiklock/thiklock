@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on dbt projects<br>🤝 SQL, Python<br>💬 Data in the Modern Stacj<br>⚡ I have a Big Dog
+🔭 I’m currently working on dbt projects<br>🤝 SQL, Python<br>💬 Data in the Modern Stack<br>⚡ I have a Big Dog
 
 
 # 💻 Tech Stack:
